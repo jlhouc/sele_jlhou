@@ -45,5 +45,5 @@ class Test_createDate():
     def teardown_class(cls):
         print('\n ***   清除-模块 ***')
 
-if __name__ == '__main__':
-    pytest.main(['-s','test_login.py'])
+# if __name__ == '__main__':
+#     pytest.main(['-s','test_login.py'])
